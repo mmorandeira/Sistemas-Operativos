@@ -2,11 +2,12 @@
 
 FILE=$1
 counter=0
-while read line
-do
-    arr[counter]=$line
+IFS='
+'
+for i in $(cat $1); do
+    arr[counter]=$i
     let counter++
-done < $FILE
+done
 
 for ((i=$counter -1; i >=0 ; i--)); do
     echo ${arr[$i]}

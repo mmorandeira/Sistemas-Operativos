@@ -1,0 +1,12 @@
+#!/bin/bash
+SAVEIFS=$IFS
+IFS=$(echo -en "\n\b")
+for i in $( ls $1 ); do
+    echo $i
+    filename=$(basename -- "$i")
+    echo $filename
+    echo $extension
+    answer=$(echo "$filename" | tr -s ' ' | tr ' ' '_')
+    echo $answer
+    mv $i $
+done
