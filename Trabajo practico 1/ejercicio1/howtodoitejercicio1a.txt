@@ -1,0 +1,1 @@
+tr [:lower:] [:upper:] < ejercicio1.txt | tee ejercicio1.txt

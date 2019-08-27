@@ -1,0 +1,1 @@
+tr [0-9] f < ejercicio1b.txt | tee ejercicio1b_tr.txt
