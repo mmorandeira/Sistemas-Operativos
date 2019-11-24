@@ -1,0 +1,11 @@
+Nicolas del Caño	Presidente	561214
+Santiago Coria	Presidente	3
+Mauricio Macri	Presidente	10470670
+Juan Gomez	Presidente	443507
+Alberto Fernandez	Presidente	12473709
+Roberto Lavagna	Presidente	1599707
+Jose Espert	Presidente	382820
+Facundo Martinez	Pinguino	100000
+
+
+

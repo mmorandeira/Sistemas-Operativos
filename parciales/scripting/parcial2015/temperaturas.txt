@@ -1,0 +1,9 @@
+Tandil	Argentina	32	34	27	23	20	10	4	6	11	16	20	28
+Mar del plata	Argentina	37	30	24	24	21	11	3	7	11	15	21	29
+Ayacucho	Argentina	32	34	22	26	23	10	1	7	12	16	23	30
+Balcarce	Argentina	33	30	25	22	25	12	5	9	14	17	25	31
+Olavarria	Argentina	31	33	28	21	25	14	4	8	11	18	28	33
+Azul	Argentina	35	32	28	24	22	11	3	6	12	16	21	34
+Puerto Ordaz	Venezuela	32	34	27	28	27	25	20	28	27	31	33	34
+ciudad argentina	Venezuela	32	34	27	28	27	25	20	28	27	31	33	34
+
