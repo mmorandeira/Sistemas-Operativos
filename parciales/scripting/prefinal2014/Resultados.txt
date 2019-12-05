@@ -1,0 +1,6 @@
+celina.txt	wificasa  	 180
+cio.txt	wificasa  	 180
+coria.txt	wificasa  	 180
+juampi.txt	wificasa  	 180
+juan.txt	wificasa  	 180
+mati.txt	wificasa  	 180

@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 for i in $(ls -1 $1); do
     path=$(echo "$i" | cut -d "." -f1 | cut -d "_" -f$2)

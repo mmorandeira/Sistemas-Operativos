@@ -1,0 +1,14 @@
+udp	nada	nada	nada	192.168.0.1:8080	bien
+udp	nada	nada	nada	200.162.0.1:8081	mal
+udp	nada	nada	nada	201.161.0.1:8083	regular
+raw	nada	nada	nada	202.163.0.1:8084	regular
+raw	nada	nada	nada	203.161.0.1:27015	mal
+udp	nada	nada	nada	204.162.0.1:0194	cualquier banana
+udp	nada	nada	nada	205.162.0.1:8084	bien
+tcp	nada	nada	nada	206.163.0.1:8083	mal
+udp	nada	nada	nada	207.164.0.1:27016	cualquier cosa
+udp	nada	nada	nada	208.168.6.1:8080	cualquier banana
+tcp	nada	nada	nada	209.168.5.1:27017	regular
+udp	nada	nada	nada	210.168.4.1:8081	bien
+udp	nada	nada	nada	211.168.3.1:27020	mal
+udp	nada	nada	nada	2012.168.1.1:8081	bien	
